@@ -4,4 +4,6 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 ## Results:
 ![snapshot](https://github.com/cffhr99/Module10-Challenge/blob/main/snapshot.PNG?raw=true)
 ## Additional Bootstrap 3 Components:
-- Adding .table-hover to enable a hover state on table rows within a <tbody>. The method is that add classes="table table-hover" into df.to_html() like df.to_html(classes="table table-hover")
+- Adding .table-hover to enable a hover state on table rows within a <tbody>. The method is that add class" into to_html() like df.to_html(classes="table table-hover").
+- Replacing the button class "btn-primary" to "btn-success", which the color becomes green.
+- Adding class="col-xs-6 col-md-3" and "thumbnail" to hemisphere images to fit mobile and desktop.
